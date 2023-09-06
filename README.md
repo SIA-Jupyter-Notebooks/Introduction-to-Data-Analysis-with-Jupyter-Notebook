@@ -14,8 +14,8 @@ This short course is designed to introduce you to the world of data analysis usi
 # Module 1: Getting Started with Jupyter Notebook
  
 Introduction to Jupyter Notebook
-Installing Jupyter Notebook
-Creating your first Jupyter Notebook
+<br>Installing Jupyter Notebook
+<br>Creating your first Jupyter Notebook
 
 # Module 2: Python Basics for Data Analysis
 
