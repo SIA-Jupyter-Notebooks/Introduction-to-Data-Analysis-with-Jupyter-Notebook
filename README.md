@@ -1,3 +1,7 @@
+## Run the Course on Jupyter Notebook Online
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SIA-Jupyter-Notebooks/Introduction-to-Data-Analysis-with-Jupyter-Notebook/main)
+
+
 # Introduction-to-Data-Analysis-with-Jupyter-Notebook
 This short course is designed to introduce you to the world of data analysis using Jupyter Notebook, a popular tool among data professionals.
 
