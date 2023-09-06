@@ -19,24 +19,24 @@ Introduction to Jupyter Notebook
 
 # Module 2: Python Basics for Data Analysis
 
-Introduction to Python programming
-Variables, data types, and basic operations
-Python libraries for data analysis (NumPy and Pandas)
+<br>Introduction to Python programming
+<br>Variables, data types, and basic operations
+<br>Python libraries for data analysis (NumPy and Pandas)
 
 # Module 3: Data Import and Manipulation
 
-Loading data into Jupyter Notebook
-Exploring and cleaning data with Pandas
-Data visualization using Matplotlib and Seaborn
+<br>Loading data into Jupyter Notebook
+<br>Exploring and cleaning data with Pandas
+<br>Data visualization using Matplotlib and Seaborn
 
 # Module 4: Data Analysis and Statistics
 
-Basic statistical concepts
-Descriptive statistics
-Hypothesis testing and statistical inference
+<br>Basic statistical concepts
+<br>Descriptive statistics
+<br>Hypothesis testing and statistical inference
 
 
 # Module 5: Sharing Your Analysis
 
-Exporting your Jupyter Notebook
-Communicating your findings effectively
+<br>Exporting your Jupyter Notebook
+<br>Communicating your findings effectively
